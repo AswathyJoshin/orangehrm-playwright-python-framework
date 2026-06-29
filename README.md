@@ -42,6 +42,18 @@ pytest -m smoke -v
 - UI checks
 
 ---
+## Disclaimer
+
+This project is intended for educational and portfolio purposes only. It uses the publicly available OrangeHRM demo application to demonstrate UI test automation using Playwright and Pytest.
+
+This project is not affiliated with, endorsed by, or sponsored by OrangeHRM. All trademarks, product names, and logos are the property of their respective owners.
+
+---
+
+## Acknowledgements
+
+Special thanks to the OrangeHRM team for providing a publicly accessible demo application that enables learners and QA engineers to practice UI automation and testing techniques.
+
 
 ## 👨‍💻 Author
 Aswathy George Kuzhivelipurath
