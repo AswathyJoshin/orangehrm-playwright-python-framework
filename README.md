@@ -1,4 +1,4 @@
-# OrangeHRM Playwright Automation Framework
+# OrangeHRM Playwright Python Automation Framework
 
 ## 📌 What is this project?
 This is a simple QA automation framework built using:
